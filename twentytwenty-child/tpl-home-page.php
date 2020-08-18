@@ -14,7 +14,7 @@
 
                     ?>
 
-                    <div class="top_image">
+                    <div class="top_image image">
 <img src="<?php echo get_sub_field( 'top_image' )?>" >
                         
                     </div>
