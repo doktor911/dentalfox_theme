@@ -1,0 +1,6 @@
+01/15/20 11:35:22: C:\Users\Nazar\Desktop\site\OSPanel\domains\dentalfox.com.ua/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+01/15/20 11:35:39: C:\Users\Nazar\Desktop\site\OSPanel\domains\dentalfox.com.ua/wp-content/plugins/wp-scss/cache/ - File Permission Error, permission denied. Please make the cache directory writable.
+01/15/20 3:12:42: style.scss - parse error: failed at `@ keyframes zoomIn{` C:\Users\Nazar\Desktop\site\OSPanel\domains\dentalfox.com.ua/wp-content/themes/twentytwenty-child/css/style.scss on line 70
+01/24/20 1:23:56: style.scss - unexpected }: failed at `` C:\Users\Nazar\Desktop\site\OSPanel\domains\dentalfox.com.ua/wp-content/themes/twentytwenty-child/css/style.scss on line 205
+01/29/20 11:15:47: style.scss - parse error: failed at `{` C:\Users\Nazar\Desktop\site\OSPanel\domains\dentalfox.com.ua/wp-content/themes/twentytwenty-child/css/style.scss on line 276
+01/29/20 11:21:49: style.scss - parse error: failed at `margin: ` C:\Users\Nazar\Desktop\site\OSPanel\domains\dentalfox.com.ua/wp-content/themes/twentytwenty-child/css/style.scss on line 370
