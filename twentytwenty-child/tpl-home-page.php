@@ -95,7 +95,7 @@
 
                          <?php endwhile;
 
-                    else :
+
 
                         // no rows found
 
@@ -110,9 +110,7 @@
 
 
 
-            
-        </div>
-    </div>
+
     
 
 
@@ -145,7 +143,7 @@
 
                          <?php endwhile;
 
-                    else :
+
 
                         // no rows found
 
@@ -154,8 +152,7 @@
                     ?>
 
         </div>
-    </div>
-</section>
+
 <section class="agent_block">
     <div class="agent_content">
         <?php the_field( 'dentist_block_content' )?>
@@ -181,7 +178,7 @@
 
                          <?php endwhile;
 
-                    else :
+
 
                         // no rows found
 
@@ -220,7 +217,7 @@ $offers_button = get_sub_field('offers_button');
 
                          <?php endwhile;
 
-                    else :
+
 
                         // no rows found
 
@@ -256,7 +253,7 @@ $offers_button = get_sub_field('offers_button');
 
                          <?php endwhile;
 
-                    else :
+
 
                         // no rows found
 
